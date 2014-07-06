@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">回忆墙</string>
+	<string name="photo_content_des">this is a photo</string>
+	
+	<string name="welcome_et_username">用户名</string>
+	<string name="welcome_et_pwd">密码</string>
+	<string name="welcome_bt_login">登陆</string>
+	
+	<string name="hint_main_search">记忆搜索&#8230;</string>
+	
+	<string name="photo_frag_title_sample">二十年前和老厂长去苏州，是以前的战友，还一起下乡插队</string>
+	<string name="photo_frag_title_full">全屏</string>
+	
+	<string name="imgdes_record_story">讲个故事吧</string>
+	<string name="imgdes_listen">听听看</string>
+	<string name="imgdes_share">分享</string>
+	<string name="imgdes_dumb">image</string>
+	
+	<string name="dialog_title">请输入标签名</string>
+	<string name="dialog_input_hint">标签名</string>
+	
+</resources>

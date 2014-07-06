@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tag_text_normal">#9c9c9c</color>
+    <color name="tag_text_pressed">#93cc64</color>
+    <color name="main_text">#bdbab4</color>
+</resources>

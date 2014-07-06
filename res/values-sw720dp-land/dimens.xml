@@ -1,0 +1,58 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
+    -->
+	<dimen name="welcome_top_margin">300dp</dimen>
+	<dimen name="welcome_input_width">323dp</dimen>
+	<dimen name="welcome_input_height">43dp</dimen>
+	<dimen name="welcome_btn_width">97dp</dimen>
+	<dimen name="welcome_btn_height">36dp</dimen>
+	<dimen name="welcome_btn_textsize">20sp</dimen>
+	<dimen name="welcome_spacing">15dp</dimen>
+    
+	<dimen name="photo_bar_width">675dp</dimen>
+    <dimen name="photo_bar_height">39dp</dimen>
+    <dimen name="photo_bar_marginBottom">20dp</dimen>
+    <dimen name="photo_titlebar_marginLeft">15dp</dimen>
+    <dimen name="photo_titlebar_textsize">20sp</dimen>
+    
+    <dimen name="main_icon_width">30dp</dimen>
+    <dimen name="main_icon_height">30dp</dimen>
+    <dimen name="main_topicon_marginTop">30dp</dimen>
+    <dimen name="main_topicon_marginRight">35dp</dimen>
+    <dimen name="main_topicon_marginRight2">55dp</dimen>
+    
+    <dimen name="main_photos_width">859dp</dimen>
+    <dimen name="main_photos_height">450dp</dimen>
+    <dimen name="main_photos_marginTop">50dp</dimen>
+    <dimen name="main_photos_padding">75dp</dimen>
+    
+	<dimen name="tags_section_width">840dp</dimen>
+	<dimen name="tags_section_height">160dp</dimen>
+	<dimen name="tags_section_marginTop">15dp</dimen>
+	<dimen name="tags_section_marginLeft">80dp</dimen>
+	<dimen name="tag_width">220dp</dimen>
+	<dimen name="tag_height">39dp</dimen>
+	<dimen name="tag_text_size">25sp</dimen>
+	
+	<dimen name="button_section_marginLeft">15dp</dimen>
+	<dimen name="button_section_spacing">20dp</dimen>
+	
+	<dimen name="main_button_width">311dp</dimen>
+	<dimen name="main_button_height">64dp</dimen>
+	
+	<dimen name="main_bar_width">245dp</dimen>
+	<dimen name="main_bar_height">42dp</dimen>
+	<dimen name="main_bar_marginLeft">100dp</dimen>
+	<dimen name="main_search_width">323dp</dimen>
+	<dimen name="main_search_height">42dp</dimen>
+	<dimen name="main_search_paddingLeft">15dp</dimen>
+	<dimen name="main_search_textsize">25sp</dimen>
+	
+	<dimen name="gallery_cross_width">30dp</dimen>
+	<dimen name="gallery_cross_height">30dp</dimen>
+	<dimen name="gallery_cross_marginTop">30dp</dimen>
+	<dimen name="gallery_cross_marginRight">30dp</dimen>
+</resources>

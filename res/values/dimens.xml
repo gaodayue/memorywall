@@ -1,0 +1,53 @@
+<resources>
+
+    <dimen name="welcome_top_margin">150dp</dimen>
+	<dimen name="welcome_input_width">161dp</dimen>
+	<dimen name="welcome_input_height">22dp</dimen>
+	<dimen name="welcome_btn_width">43dp</dimen>
+	<dimen name="welcome_btn_height">18dp</dimen>
+	<dimen name="welcome_btn_textsize">10sp</dimen>
+	<dimen name="welcome_spacing">5dp</dimen>
+    
+	<dimen name="photo_bar_width">337dp</dimen>
+    <dimen name="photo_bar_height">20dp</dimen>
+    <dimen name="photo_bar_marginBottom">10dp</dimen>
+    <dimen name="photo_titlebar_marginLeft">2dp</dimen>
+    <dimen name="photo_titlebar_textsize">10sp</dimen>
+    
+    <dimen name="main_icon_width">15dp</dimen>
+    <dimen name="main_icon_height">15dp</dimen>
+    <dimen name="main_topicon_marginTop">15dp</dimen>
+    <dimen name="main_topicon_marginRight">15dp</dimen>
+    <dimen name="main_topicon_marginRight2">25dp</dimen>
+    
+    <dimen name="main_photos_width">350dp</dimen>
+    <dimen name="main_photos_height">180dp</dimen>
+    <dimen name="main_photos_marginTop">25dp</dimen>
+    <dimen name="main_photos_padding">37dp</dimen>
+    
+	<dimen name="tags_section_width">300dp</dimen>
+	<dimen name="tags_section_height">100dp</dimen>
+	<dimen name="tags_section_marginTop">5dp</dimen>
+	<dimen name="tags_section_marginLeft">30dp</dimen>
+	<dimen name="tag_width">110dp</dimen>
+	<dimen name="tag_height">20dp</dimen>
+	
+	<dimen name="button_section_marginLeft">15dp</dimen>
+	<dimen name="button_section_spacing">20dp</dimen>
+
+	<dimen name="main_button_width">155dp</dimen>
+	<dimen name="main_button_height">32dp</dimen>
+	
+	<dimen name="main_bar_width">122dp</dimen>
+	<dimen name="main_bar_height">21dp</dimen>
+	<dimen name="main_bar_marginLeft">10dp</dimen>
+	<dimen name="main_search_width">161dp</dimen>
+	<dimen name="main_search_height">21dp</dimen>
+	<dimen name="main_search_paddingLeft">5dp</dimen>
+	
+	<dimen name="gallery_cross_width">15dp</dimen>
+	<dimen name="gallery_cross_height">15dp</dimen>
+	<dimen name="gallery_cross_marginTop">15dp</dimen>
+	<dimen name="gallery_cross_marginRight">15dp</dimen>
+	
+</resources>

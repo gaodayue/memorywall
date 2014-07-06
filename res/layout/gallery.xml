@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gallery_bg"
+    tools:context=".GalleryActivity">
+    
+    <ImageButton
+        android:layout_width="@dimen/gallery_cross_width"
+        android:layout_height="@dimen/gallery_cross_height"
+        android:src="@drawable/cross"
+        android:contentDescription="@string/imgdes_dumb"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/gallery_cross_marginTop"
+        android:layout_marginRight="@dimen/gallery_cross_marginRight"
+	    android:background="#00ffffff"
+	    android:scaleType="fitCenter"
+	    android:onClick="onClickBack"/>
+    
+    <GridView
+        android:id="@+id/gallery_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:numColumns="5"
+        android:gravity="center"
+        android:horizontalSpacing="20dp"
+        android:verticalSpacing="20dp"
+        android:background="#00ffffff"></GridView>
+</RelativeLayout>
